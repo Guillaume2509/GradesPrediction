@@ -5,6 +5,6 @@ Simple linear regression to predict grades.
 
 Python Scikit-Learn
 
-Thanks to Tech with Tim for the tutorials, from which this work was learned from:
+Thanks to Tech with Tim for the tutorials, from which this work was written from:
 https://techwithtim.net/
 
